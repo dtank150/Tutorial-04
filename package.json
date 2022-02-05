@@ -1,0 +1,24 @@
+{
+  "name": "tutorial-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtank150/Tutorial-04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtank150/Tutorial-04/issues"
+  },
+  "homepage": "https://github.com/dtank150/Tutorial-04#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0"
+  }
+}
